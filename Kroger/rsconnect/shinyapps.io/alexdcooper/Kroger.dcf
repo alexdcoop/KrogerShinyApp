@@ -1,0 +1,12 @@
+name: Kroger
+title: Kroger
+username:
+account: alexdcooper
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3699107
+bundleId: 4272738
+url: https://alexdcooper.shinyapps.io/Kroger/
+when: 1614289044.53308
+asMultiple: FALSE
+asStatic: FALSE
